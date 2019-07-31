@@ -1,0 +1,16 @@
+jul 31, 2019 3:54:41 PM bitacora.Bitacora main
+INFORMACIÓN: Bitacora inicializada
+jul 31, 2019 3:54:41 PM bitacora.Bitacora main
+INFORMACIÓN: Llamadas a los componentes del sistema
+jul 31, 2019 3:54:41 PM bitacora.subnivel.Utilidades funcionDudosa
+GRAVE: ERROR MASIVO
+jul 31, 2019 3:54:41 PM bitacora.subnivel.Control controlar
+INFORMACIÓN: Proceso exitoso
+jul 31, 2019 3:54:41 PM bitacora.subnivel.under.InternalSys llamadaSistema
+ADVERTENCIA: Ocurrio un error de acceso en 0xFF
+jul 31, 2019 3:54:41 PM bitacora.Bitacora main
+INFORMACIÓN: Probando manejo de excepciones
+jul 31, 2019 3:54:41 PM bitacora.Bitacora main
+GRAVE: java.lang.Exception: ERROR DE CONTROL DE FLUJO DE PROGRAMA
+	at bitacora.Bitacora.main(Bitacora.java:79)
+
